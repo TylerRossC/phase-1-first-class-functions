@@ -1,0 +1,1 @@
+receivesAFunction(function spy());
